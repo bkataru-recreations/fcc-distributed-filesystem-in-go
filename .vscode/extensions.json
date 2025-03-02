@@ -3,6 +3,7 @@
         "zxh404.vscode-proto3",
         "quicktype.quicktype",
         "nhoizey.gremlins",
-        "golang.go"
+        "golang.go",
+        "ms-vscode.makefile-tools"
     ]
 }
